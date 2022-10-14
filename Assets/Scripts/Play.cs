@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class StartMenu : MonoBehaviour
+public class Play : MonoBehaviour
 {
     // Update is called once per frame
-    public void startMenu(){
+    public void LoadPlay(){
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+1);
     }
 }
