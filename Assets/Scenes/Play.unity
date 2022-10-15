@@ -369,19 +369,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 361018242}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 361018239}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &361018242
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -758,9 +746,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Story
+  m_Text: 'Comming
 
-    Two'
+    Soon..'
 --- !u!222 &903792045
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1069,9 +1057,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Story
+  m_Text: 'Comming
 
-    Three'
+    Soon..'
 --- !u!222 &1337367192
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1270,19 +1258,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1931818403}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 1931818406}
-        m_TargetAssemblyTypeName: Story_2, Assembly-CSharp
-        m_MethodName: storyTwo
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &1931818403
 MonoBehaviour:
   m_ObjectHideFlags: 0
