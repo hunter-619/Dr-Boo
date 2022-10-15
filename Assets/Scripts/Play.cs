@@ -6,7 +6,8 @@ using UnityEngine.SceneManagement;
 public class Play : MonoBehaviour
 {
     // Update is called once per frame
-    public void LoadPlay(){
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+1);
+    public void LoadPlay()
+    {
+        SceneManager.LoadScene("Play");
     }
 }
