@@ -29,9 +29,10 @@ public class QuizManager : MonoBehaviour
     public void correct()
     {
         CurrentQuestion++;
-        generateQuestion();
+        Invoke("generateQuestion", 1);
 
     }
+
     void SetAnswers()
     {
         for (int i = 0; i < options.Length; i++)

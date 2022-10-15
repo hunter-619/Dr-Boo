@@ -9,9 +9,15 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
+    path: Assets/Scenes/Age.unity
+    guid: 475b9fbcd763c944eb6b357078a8a1ee
+  - enabled: 1
     path: Assets/Scenes/Play.unity
     guid: 18eae1c2908f8bd47b726a04b93ccf08
   - enabled: 1
     path: Assets/Scenes/Story One.unity
+    guid: 41c9fdbface11be4486ef342e948b50d
+  - enabled: 1
+    path: Assets/Scenes/Story Two.unity
     guid: 1d42859f2c19891408117fb1809d9f55
   m_configObjects: {}
